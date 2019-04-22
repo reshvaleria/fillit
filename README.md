@@ -17,7 +17,7 @@ You should think carefully about how you will structure your data and how to sol
 
 Example:
 
-~ ./fillit samples/test_8
+~ ./fillit fillit_sample
 
 .AABB..
 AACCB..
