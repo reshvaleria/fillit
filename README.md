@@ -12,7 +12,7 @@ Obviously, your main goal is to find the smallest square in the minimal amount o
 
 You should think carefully about how you will structure your data and how to solve this problem, if you want your program answers before the next millenium.
 
-##Usage
+## Usage
 ./fillit [file]
 
 Example:
